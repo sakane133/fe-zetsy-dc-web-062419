@@ -16,5 +16,15 @@ body {
 	background: #fff;
 	padding: 0 45px 20px;
 }
+h1 {
+  color: gray;
+}
+h2 {
+  color: gray;
+}
+p {
+  color: gray;
+  font-family: 'Times New Roman', serif; 
+}
 
 /* Write all remaining styles here */
